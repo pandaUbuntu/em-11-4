@@ -1,9 +1,9 @@
 # em-11-4
 My first git project
 
-Some text
+Some text from the
 
 Lorem ipsum dolor sit amet con laoreet, consectetur adipiscing elit
 
 
-Lorem ipsum dolor sit amet con laoreet
+Lorem ipsum sit amet con laoreet
